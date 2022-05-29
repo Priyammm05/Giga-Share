@@ -11,6 +11,7 @@ import 'package:giga_share/widgets/custom_home_button.dart';
 import 'package:giga_share/widgets/history_card.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:iconsax/iconsax.dart';
+import 'package:share_plus/share_plus.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -72,7 +73,10 @@ class _HomeScreenState extends State<HomeScreen> {
                       CustomHomeButton(
                         icon: Iconsax.share,
                         text: 'Invite',
-                        onPressed: () {},
+                        onPressed: () {
+                          Share.share(
+                              'Download our application Giga Share from the below link https://github.com/Priyammm05/Giga-Share');
+                        },
                       ),
                     ],
                   ),

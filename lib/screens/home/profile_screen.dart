@@ -124,7 +124,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   text: 'Invite a Friend',
                   onPressed: () {
                     Share.share(
-                        'Download our application Giga Share from the below link https://github.com/Priyammm05');
+                        'Download our application Giga Share from the below link https://github.com/Priyammm05/Giga-Share');
                   },
                 ),
                 CustomDivider(),
