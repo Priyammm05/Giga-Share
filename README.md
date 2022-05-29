@@ -18,3 +18,8 @@ Benefits of Giga Share for file sharing:
   • Private
   • Free to use
   • User-friendly
+
+## Video Demo
+
+https://user-images.githubusercontent.com/80326453/170870653-68b01005-13b3-47c6-a349-492692e0503d.mp4
+
