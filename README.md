@@ -1,16 +1,20 @@
-# giga_share
+# Giga Share
 
-A new Flutter project.
+A decentralized file storing and sharing application.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+Giga Share is an mobile application that uploads the content to IPFS and generates decentralized QR codes. It is compatible with any android phones. Built by BUIDL Tools.
 
-A few resources to get you started if this is your first Flutter project:
+## Benefits
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Giga Share allows you to quickly upload images/videos or files to IPFS by using web3 storage and get a "decentralized QR code" with IPFS CID. Later you can share the QR code or hosted gateway link with everyone for easy and decentralized file sharing.
+      
+Benefits of Giga Share for file sharing:
+  • Decentralized storage
+  • Unlimited uploads
+  • Fast upload speed
+  • Zero compression
+  • Private
+  • Free to use
+  • User-friendly
